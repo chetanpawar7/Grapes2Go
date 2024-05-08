@@ -1,16 +1,17 @@
 import Navbar from "../components/Header/Navbar";
-import About from "../components/Home/About";
 import Carousel from "../components/Home/Carousel";
-import Hero from "../components/Home/Hero";
-
+import About from "../components/Home/About";
+import Services from "../components/Home/Services";
+import Contact from "../components/Home/Contact";
 
 export default function Home() {
   return (
     <>
     <Navbar/>
     <Carousel/>
-    <Hero/>
     <About/>
+    <Services/>
+    <Contact/>
     </>
   )
 }
