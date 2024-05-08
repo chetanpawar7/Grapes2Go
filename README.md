@@ -1,2 +1,2 @@
 # Grapes2Go
-react and django fullstack portfolio website
+react and django fullstack  website
